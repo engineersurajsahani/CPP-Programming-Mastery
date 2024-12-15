@@ -1,4 +1,3 @@
-# CPP-Programming-Mastery
 # C++ Programming Mastery 🎯
 
 🎓 **Prerequisite:** Basic knowledge of C Programming  
